@@ -1,0 +1,8 @@
+zoek eens 4 rechten uit en schrijf op in je eigen woorden wat die rechten doen de volgende mag je niet kiezen
+1: CREATE: je kan er een entity mee maken table,user,etc.
+2: ALTER: je kan veranderingen maken in de table of database.
+3: DROP: je kan een hele database of table verwijderen.
+4: References: je kan een foreign-key op meerdere columns gebruiken.
+
+CREATE: wat heb je nodig: table name en columns met de datatypes
+DROP: wat heb je nodig: table name of database name

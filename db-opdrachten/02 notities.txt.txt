@@ -1,0 +1,8 @@
+Bedrijf: ajax amsterdam plaats amsterdam
+variablen van adres: Johan Cruijff Boulevard 1, 1101 DL Amsterdam
+waarde:
+1:straat
+2:postcode
+3:stad
+4:huisnummer
+Waarom doen we dit: zodat we de stukken van het adres terug kunnen vinden
